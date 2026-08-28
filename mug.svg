@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" rx="12" fill="#ea580c" opacity="0.12"/>
+  <circle cx="100" cy="65" r="35" fill="#ea580c" opacity="0.85"/>
+  <text x="100" y="130" font-family="sans-serif" font-size="12" fill="#ea580c" text-anchor="middle">mug</text>
+</svg>
